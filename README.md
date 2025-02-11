@@ -1,1 +1,5 @@
-# Particle Physics 2025
+# Particle Physics Spring 2025
+
+Instructions for the course will be available soon.
+
+
